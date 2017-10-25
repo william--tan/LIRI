@@ -29,3 +29,6 @@ COMMAND: < spotify-this-song ""I Want it That Way"" > | executed at 02:49:52AM o
 COMMAND: < spotify-this-song "With You" > | executed at 02:51:19AM on 10-25-2017 for 1.515 seconds
 COMMAND: < my-tweets  > | executed at 02:56:12AM on 10-25-2017 for 0.684 seconds
 COMMAND: < movie-this "argo" > | executed at 02:56:31AM on 10-25-2017 for 0.673 seconds
+COMMAND: < my-tweets  > | executed at 03:09:26AM on 10-25-2017 for 0.611 seconds
+COMMAND: < spotify-this-song "Lullaby of Birdland" > | executed at 03:14:36AM on 10-25-2017 for 1.09 seconds
+COMMAND: < my-tweets  > | executed at 03:18:44AM on 10-25-2017 for 0.655 seconds

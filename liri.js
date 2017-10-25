@@ -12,7 +12,7 @@ var timeAgo = require('node-time-ago');
 var emojiStrip = require('emoji-strip');
 
 //NODE INIT
-function init(input1 = '', input2){
+function init(input1, input2){
 	switch (input1)
 	{
 		case 'my-tweets':
@@ -198,8 +198,8 @@ function getTrack(track = 'The Sign Ace of Base'){
 }
 
 //TWITTER
-var t = new twitter(keys.twitter);
 function getTwitterFeed(twitterid = ''){
+	var t = new twitter(keys.twitter);
 	var time1 = moment();
 	t.get(`statuses/user_timeline/${twitterid}`, {count: 20}, function(error, tweets, response){
 		if (error) console.log(error);
