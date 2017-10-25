@@ -232,6 +232,7 @@ function getTwitterFeed(twitterid = ''){
 			count++;
 		})
 		//TABLE HEADINGS
+		if (twitterid == '') twitterid = "weirdummy";
 		data.unshift(["#", `TWEETS BY @${twitterid}`, "DATE CREATED", "TIME AGO"]);
 		
 		//SHOW TABLE
