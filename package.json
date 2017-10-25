@@ -1,0 +1,32 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "Homework 10 - LIRI App",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/william--tan/liri-app.git"
+  },
+  "author": "William Tan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/william--tan/liri-app/issues"
+  },
+  "homepage": "https://github.com/william--tan/liri-app#readme",
+  "dependencies": {
+    "emoji-strip": "^1.0.1",
+    "fs": "0.0.1-security",
+    "inquirer": "^3.3.0",
+    "loading-spinner": "^1.1.4",
+    "moment": "^2.19.1",
+    "node-time-ago": "^1.0.0",
+    "request": "^2.83.0",
+    "spotify-web-api-node": "^2.5.0",
+    "table": "^4.0.2",
+    "twitter": "^1.7.1",
+    "underscore": "^1.8.3"
+  }
+}

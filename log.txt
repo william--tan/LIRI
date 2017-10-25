@@ -1,0 +1,31 @@
+COMMAND: < movie-this "inception" > | executed at 02:02:48AM on 10-25-2017 for 0.251 seconds
+
+COMMAND: < movie-this "inception" > | executed at 02:04:58AM on 10-25-2017 for 0.188 seconds
+COMMAND: < my-tweets hillaryclinton > | executed at 02:05:02AM on 10-25-2017 for 0.487 seconds
+COMMAND: < spotify-this-song "you see jonathan ogden" > | executed at 02:06:25AM on 10-25-2017 for 2.708 seconds
+COMMAND: < my-tweets  > | executed at 02:26:37AM on 10-25-2017 for 0.477 seconds
+COMMAND: < spotify-this-song "Americans" > | executed at 02:26:53AM on 10-25-2017 for 1.099 seconds
+COMMAND: < movie-this "The Incredibles" > | executed at 02:27:11AM on 10-25-2017 for 0.45 seconds
+COMMAND: < spotify-this-song ""I Want it That Way"" > | executed at 02:30:26AM on 10-25-2017 for 0.984 seconds
+COMMAND: < movie-this "" > | executed at 02:30:59AM on 10-25-2017 for 0.485 seconds
+COMMAND: < movie-this "null" > | executed at 02:33:52AM on 10-25-2017 for 1.609 seconds
+COMMAND: < movie-this "Inception" > | executed at 02:34:30AM on 10-25-2017 for 0.166 seconds
+ERROR: WebapiError: Bad Request at 02:35:56AM on 10-25-2017
+ERROR: WebapiError: Bad Request at 02:37:13AM on 10-25-2017
+ERROR: WebapiError: Bad Request at 02:37:26AM on 10-25-2017
+COMMAND: < movie-this "Inception" > | executed at 02:38:35AM on 10-25-2017 for 0.143 seconds
+COMMAND: < my-tweets realdonaldtrump > | executed at 02:38:48AM on 10-25-2017 for 0.499 seconds
+ERROR: WebapiError: Bad Request at 02:39:07AM on 10-25-2017
+COMMAND: < spotify-this-song "The Sign Ace of Base" > | executed at 02:40:36AM on 10-25-2017 for 1 seconds
+COMMAND: < spotify-this-song "The Sign Ace of Base" > | executed at 02:40:39AM on 10-25-2017 for 0.98 seconds
+ERROR: WebapiError: Bad Request at 02:40:44AM on 10-25-2017
+COMMAND: < spotify-this-song "The Sign Ace of Base" > | executed at 02:41:09AM on 10-25-2017 for 1.017 seconds
+COMMAND: < spotify-this-song "The Sign Ace of Base" > | executed at 02:43:47AM on 10-25-2017 for 1.335 seconds
+COMMAND: < spotify-this-song "The Sign Ace of Base" > | executed at 02:44:20AM on 10-25-2017 for 1.357 seconds
+COMMAND: < spotify-this-song "friend" > | executed at 02:44:32AM on 10-25-2017 for 1.308 seconds
+COMMAND: < spotify-this-song "lullaby of birdland" > | executed at 02:44:47AM on 10-25-2017 for 1.289 seconds
+COMMAND: < spotify-this-song "hillsong" > | executed at 02:45:10AM on 10-25-2017 for 1.257 seconds
+COMMAND: < spotify-this-song ""I Want it That Way"" > | executed at 02:49:52AM on 10-25-2017 for 0.962 seconds
+COMMAND: < spotify-this-song "With You" > | executed at 02:51:19AM on 10-25-2017 for 1.515 seconds
+COMMAND: < my-tweets  > | executed at 02:56:12AM on 10-25-2017 for 0.684 seconds
+COMMAND: < movie-this "argo" > | executed at 02:56:31AM on 10-25-2017 for 0.673 seconds
