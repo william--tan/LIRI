@@ -4,7 +4,7 @@
 
 ##### Basic useful feature list:
 
- * Utlizes the Twitter API to get the 20 most recent tweets
+ * Utilizes the Twitter API to get the 20 most recent tweets
  * Get a list of songs by searching from the Spotify Web API
  * Find a movie (using 'Request') from the OMDB API
  * Reads from a .txt File to run commands
@@ -18,9 +18,9 @@
 ##### Commands:
 
 * Get a list (10 entries max) of tracks in Spotify Web API
-	```
-	node liri spotify-this '<song-title>'
-	```
+   ```
+   node liri spotify-this '<song-title>'
+   ```
 * Get movie details from OMDB API
    ```
    node liri movie-this '<movie-title>'
