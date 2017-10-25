@@ -29,6 +29,11 @@
    ```
    node liri my-tweets '<twitter-id>'
    ```
+* Run LIRI commands using a .txt file (.txt file contains one command separated by comma w/o whitespaces -- e.g. my-tweets,'realdonaldtrump')
+   ```
+   node liri do-what-it-says '<textfile>'
+   ```
+   
 
 ##### Sample UI of the Node App :stuck_out_tongue_closed_eyes:
 This is the main menu (use UP and DOWN arrow keys to navigate):
